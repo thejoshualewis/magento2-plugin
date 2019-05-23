@@ -1,3 +1,6 @@
+# 2019 Update
+This module has been depcreated.  You are free to use it, but for future updates, use [BitPay Checkout for Magento 2](https://github.com/bitpay/bitpay-checkout-magento2)
+
 # NOTICE
 This is a Community-supported project.
 
